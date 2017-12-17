@@ -1,4 +1,4 @@
 # JavaScript_practise
 
-writeNumber - writes numbers from a given numerical interval
+writeNumber - writes numbers from a given numerical interval <br>
 slider - simple slider
